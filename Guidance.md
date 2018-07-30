@@ -62,7 +62,7 @@ spigo安装
 - 最后在浏览器中登录localhost:7474就能看到neo4j记录的自定义arch了。
 
 如何使用spigo模拟自定义arch
-
+------
 - 在github的readme文件中，并没有记录如何使用spigo来模拟我们自定义的arch。直到我看了spigo在github中的issue，有人和我有一样的问题。
 
   ![](png/1.png)
